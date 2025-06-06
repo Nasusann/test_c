@@ -1,0 +1,5 @@
+.background-image {
+    background-image: url('C.png');
+    background-size: cover; /* 画像を全体に広げる */
+    background-position: center; /* 画像を中央に配置 */
+}
